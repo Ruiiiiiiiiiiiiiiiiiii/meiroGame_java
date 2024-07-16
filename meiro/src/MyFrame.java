@@ -18,8 +18,8 @@ import javax.swing.JFrame;
 */
 public class MyFrame extends JFrame implements Runnable {
 	 private static final int CELL_SIZE = 20;
-	    private static final int MIN_WIDTH = 15;
-	    private static final int MIN_HEIGHT = 15;
+	    private static final int MIN_WIDTH = 17;
+	    private static final int MIN_HEIGHT = 17;
  
 	    private BufferedImage im;
 	    private Color col = Color.BLACK;
